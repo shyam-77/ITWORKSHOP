@@ -1,0 +1,38 @@
+<html>
+<head>
+    <meta charset="utf-8">
+<title> shyam </title>
+</head>
+<body  background="2.jpg" >
+<h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;  RADHA SHYAM HOTEL
+    </h1>
+    <p align="right" style="color: aliceblue;">
+        <a href="#" style=color:aliceblue>menu </a> 
+        <a href="#"style=color:aliceblue >branch</a> 
+        <a href="#" style=color:aliceblue>services</a> 
+        <a href="#" style=color:aliceblue>contact</a></p>
+        
+        <br><br><br><br><br><br>
+        <br><br><br><br><br><br>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <font face="lato"size="10" style="color:brown"> RADHA SHYAM HOTEL<br> 
+        </font>
+        <h4 align="center">
+      <font face="Harrington"size="6" style="color:white"> <p>We serve an Delicious Food</p></font><h4></font>
+        <br><br><br><br><br><br><br><br><br><br><br>
+            <p style='color:white'><b>"Life is like a restaurant; you can have anything you want as long as you are willing to pay the price."
+        </b></p>
+<!----
+<img src="rest1.jpg" width="50px" height="50px"> 
+<img src="1.jpg" width="50px" height="50px">-->
+<ul><li>varitieas </li>
+    <li>branches </li>
+    <li>varitieas </li>
+</ul>
+</body>
+</html>
