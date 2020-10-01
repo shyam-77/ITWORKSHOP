@@ -1,0 +1,65 @@
+logo img
+{
+width:100px;
+height:100px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+    font-size: x-large; 
+    background-color: khaki;
+    border-radius: 50px;
+}
+nav ul li
+{
+    border-radius:30px;
+    list-style-type: none;
+    width: fit-content;  
+    float: left; 
+    font-size:20px;
+
+}
+a
+{ 
+    border-radius:10px;
+    background-color:orange;
+    text-decoration: none;
+}
+:hover
+{
+
+color:white;
+border-radius:30px;
+border-color:skyblue;
+background-color: snow;
+}
+p
+{
+    font-family: chiller;
+    font-size: 100px;
+    text-align: center;
+    color:white ; 
+    /*background-color: red;*/
+    border-radius:  10px ;
+    width: fit-content;
+    margin: 350px;
+}
+footer
+{
+    color: white;
+    text-align: end;
+}
+
+.p
+{
+    font: size 25px;;
+    color: white;
+    text-align: center;
+}
